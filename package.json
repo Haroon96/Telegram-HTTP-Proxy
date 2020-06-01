@@ -1,5 +1,5 @@
 {
-  "name": "telegram-proxy",
+  "name": "telegram-http-proxy",
   "version": "1.0.0",
   "description": "Simple proxy forwarder for Telegram's API",
   "main": "index.js",
