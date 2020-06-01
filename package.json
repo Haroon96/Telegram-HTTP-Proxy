@@ -1,0 +1,15 @@
+{
+  "name": "telegram-proxy",
+  "version": "1.0.0",
+  "description": "Simple proxy forwarder for Telegram's API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Haroon",
+  "license": "ISC",
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  }
+}
